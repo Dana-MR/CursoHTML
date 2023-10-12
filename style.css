@@ -1,0 +1,35 @@
+html{
+    background: linear-gradient(rgb(205, 237, 245), rgb(103, 163, 231));
+    scroll-behavior: smooth;
+    font-size: 20px;
+}
+header,nav,section,footer{
+    background-color: aliceblue;
+    border-style: 1;
+    margin: 20px;
+    width: 90%;
+    padding: 20px;
+    display: block;
+    border-radius: 10px;
+}
+
+.bloques{
+    background-color: aquamarine;
+}
+
+#nombre{
+    color:blue;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 10%;
+    color: blue;
+}
+
+nav{
+    text-align: center;
+}
+a:hover{
+    color: rgb(88, 88, 245);
+}
